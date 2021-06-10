@@ -190,5 +190,4 @@ def create_artist():
 '''
 
 if __name__ == "__main__":
-    #application.run(host='192.168.0.106', port='3000', debug=True)
-    application.run(host="0.0.0.0", port='3000', debug=True)
+    application.run(host='192.168.0.106', port='3000', debug=True)
