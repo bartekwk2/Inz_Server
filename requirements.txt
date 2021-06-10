@@ -69,7 +69,6 @@ scikit-learn==0.24.1
 scipy==1.4.1
 sklearn==0.0
 tensorboard==2.1.1
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.1.0
 werkzeug==0.16.1
 zipp==3.4.1
