@@ -36,4 +36,9 @@ def create_table():
         print("Wystąpił błąd")
         print(e)
 
-create_table()
+
+with open("requirements.txt") as f: 
+    for line in f: 
+        line = line.replace("\n","").split('=')
+        lineOut = line[0]+"==" + line[1]
+        print(lineOut)
