@@ -52,7 +52,6 @@ jsonschema==3.2.0
 keras==2.3.1
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
-libpng==1.6.37
 libprotobuf==3.14.0
 matplotlib-base==3.3.4
 mediapipe==0.8.4.2
