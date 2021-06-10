@@ -53,11 +53,7 @@ keras==2.3.1
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
 mediapipe==0.8.4.2
-numpy==1.19.2
-numpy-base==1.19.2
-numpydoc==1.1.0
 opencv==3.4.2
-opencv-contrib-python==4.5.2.52
 opencv-python==4.5.1.48
 openjpeg==2.3.0
 pandas==1.1.3
@@ -87,3 +83,4 @@ webencodings==0.5.1
 werkzeug==0.16.1
 yaml==0.2.5
 zipp==3.4.1
+numpy==1.19.2
