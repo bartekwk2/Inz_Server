@@ -27,7 +27,6 @@ flask==1.1.2
 flask-awscognito==1.3
 future==0.18.2
 gast==0.2.2
-giflib==5.2.1
 google-auth==1.28.0
 google-auth-oauthlib==0.4.3
 google-pasta==0.2.0
