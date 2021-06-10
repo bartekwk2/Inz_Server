@@ -52,7 +52,6 @@ jsonschema==3.2.0
 keras==2.3.1
 keras-applications==1.0.8
 keras-preprocessing==1.1.0
-matplotlib-base==3.3.4
 mediapipe==0.8.4.2
 numpy==1.19.2
 numpy-base==1.19.2
@@ -80,8 +79,6 @@ sklearn==0.0
 tensorboard==2.1.1
 tensorboard-plugin-wit==1.6.0
 tensorflow==2.1.0
-tensorflow-base==2.1.0
-tensorflow-estimator==2.1.0
 tk==8.6.10
 vc==14.2
 watchdog==0.10.3
