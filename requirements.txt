@@ -13,7 +13,6 @@ autopep8==1.5.4
 babel==2.8.1
 backcall==0.2.0
 bcrypt==3.2.0
-blas==1.0
 bleach==3.2.1
 blinker==1.4
 blosc==1.21.0
